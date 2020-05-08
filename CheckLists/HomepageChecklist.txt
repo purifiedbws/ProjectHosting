@@ -1,0 +1,8 @@
+H1 with title (x)
+p with text (x)
+Links between pages (x)
+copyright message (x)
+lines, borders, padding (x)
+favicon (x)
+image background (x)
+social media buttons (x)

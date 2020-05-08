@@ -1,0 +1,38 @@
+ul {
+	list-style: none;
+}
+
+#Navigation {
+	margin: 10px;
+	width: 900px;
+	font-family: sans-serif;
+}
+
+#Navigation li {
+	display:block;
+	width:100px;
+	float:right;
+	margin-left:15px;
+	border:1px solid #000;
+}
+
+label{
+color: yellow;
+
+}
+#socialMedia li{
+margin: auto;
+padding-left: 250px;
+	font-family: sans-serif;
+	display:block;
+	width:120px;
+	float:left;
+}
+img{
+	max-width:5%;
+	max-height: 5%;
+
+}
+#media{
+	max-width: 200%;
+}

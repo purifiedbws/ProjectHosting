@@ -1,0 +1,5 @@
+Clean up code{Comment sections of code, delete unused files, delete Unused
+CSS} (x)
+Test Website on various webpages
+Host Externally for bonus points
+Verify Design using Project 2 Checklist (x)
